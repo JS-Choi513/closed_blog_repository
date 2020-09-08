@@ -6,6 +6,7 @@ words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: https://developer513.github.io/
+baseurl: " "
 
 # Owner/author information
 owner:
@@ -87,3 +88,5 @@ exclude:
   - package.json
   - spec
   - tmp
+
+remote_theme  : mmistakes/jekyll-theme-hpstr
