@@ -88,4 +88,4 @@ exclude:
   - package.json
   - spec
   - tmp
-remote_theme : jekyll-theme-hpstr
+remote_theme : mmistakes/jekyll-theme-hpstr
