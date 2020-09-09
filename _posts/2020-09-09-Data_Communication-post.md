@@ -11,110 +11,47 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-# 데이터 통신의 개요
+# 데이터 통신 1주차
+## 1.데이터 통신의 개요
 
-## 데이터와 정보 란?
+### 1-1.데이터와 정보란?
 **데이터: 현실세계로부터 단순하게 관찰이나 측정을 통해 수집한 사실을 숫자나 문자, 기호등으로  표현한 것**   
-**정  보: 어떤상황에 대해 의사결정을 할 수있게 하는 지식**  
+**정보: 어떤상황에 대해 의사결정을 할 수있게 하는 지식**  
 즉, 어떤상황에서 판단을 내리는데 필요한 데이터를 정보라고 한다. 
 
-**통  신: 정보 제공자와  정보 수요자 간의 정보의 이동현상**
+**통신: 정보 제공자와  정보 수요자 간의 정보의 이동현상**
+
 관점에 따른 통신의 분류
-    |        분류관점      |   통신의 종류                                          |
-    |:-------             |:-      ------:                                        |     
-    |  전송매체            | 유선통신, 무선통신                                     |
-    |----                                                                         ㅣ
-    |  송수신자의 이동여부  | 고정통신, 이동통신                                     |
-    |----
-    | 신호형태             | 아날로그 통신, 디지털 통신                              |
-    |----
-    | 신호의 종류          | 전기통신, 광통신                                        | 
-    |----
-    | 이용대상             | 공중통신, 전용통신                                      | 
-    |----
-    | 정보의 표현 형태      | 음성통신, 데이터 통신, 화상통신, 영상통신, 멀티미디어 통신 | 
-    |=====                                                                         ㅣ
-    {: rules="groups"}
-### Heading 3
+|분류관점|통신의 종류|
+|------|---|
+|전송매체|유선통신, 무선통신|
+|송수신자의 이동여부|고정통신, 이동통신|
+|신호형태|아날로그 통신, 디지털 통신|
+|신호의 종류| 전기통신, 광통신| 
+| 이용대상| 공중통신, 전용통신| 
+| 정보의 표현 형태| 음성통신, 데이터 통신, 화상통신, 멀티미디어 통신|
 
-#### Heading 4
+표를 봤을 때 데이터 통신은 정보의 표현형태 관점에서 분류한 하나의 통신형태임을 알 수 있다. 
 
-##### Heading 5
+**데이터 통신: 문자, 숫자, 기호 등으로 표현된 정보가 정보 제공자와 정보 수요자 간의 정보의 이동**
+이라고 말할 수 있다.
 
-###### Heading 6
+### 1-2.데이터 통신의 목표
+하드웨어+소프트웨어의 조합으로 이루어지는 데이터 통신을 효율적으로 운용하기 위해서는 크게 3가지 목표가 보장되어야 한다. 
 
-### Body text
+* <strong>데이터 전송의 정확성(accuracy)</strong>
+    &nbsp;데이터는 전송 중 여러가지 요인(노이즈)에 의해 잘못된 정보가 전송될 수 있다.(채널코딩) 
+    &nbsp;따라서 정확한 정보의 전달을 위해 다양한 기술을 제공해야 한다.  
+* <strong>데이터 전송의 효율성(efficiency)</strong>
+    &nbsp;데이터 전송을 위해 투자된 비용(장비)보타 획득한 정보의 가치가 더 커야 한다.(소스코딩) 
+* <strong>데이터 전송의 안전성(secrecy)</strong>
+    &nbsp;데이터의 내용이 원하지 않는 제3자에게 유출되거나 변형되어서는 안된다.(보안코딩)
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+> **채널코딩(channel coding):**  전송데이터에  구조화된 잉여정보를 삽입함으로써 비트 오류율 성능을 개선시키기 위한 과정을 말한다.  채널코딩의 종류로 오류검출을 위한 해밍코드, CRC와 같은 블록코딩과, 이동통신에서 많이 사용하는 Convolustion 코드가 있다.   
 
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
+> **소스코딩(source coding):**  정보의 원천(소스)을 디지털 형식으로 변환 압축하는 과정을 말한다. 가장 적은 비트수로 원래정보를 전달할 수 있는 방법으로 모스부호, 허프만 코드와 같이 코드 길이에 대한 방식과 정보형태에 따라 JPEC(이미지), MPEC(영상) 같은방식, 압축방식으로는 램펠-지프, ZIP 모두 소스코딩에 해당한다. 
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times <cite>(That’s a citation)</cite>. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+> **보안코딩(Secrecy coding):** 전송되는 데이터의 내용에 대한 안전성을 제공하기 위한 과정을 말한다. 대칭키, 비대칭키를 사용한 암호 알고리즘이 여기에 속한다.  
 
-HTML and <abbr title="cascading stylesheets">CSS<abbr> are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+ITL
 
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-Syntax highlighting via Rouge
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-Non Pygments code example
-
-    <div id="awesome">
-        <p>This is great isn't it?</p>
-    </div>
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn btn-success">Success Button</a>
-```
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
