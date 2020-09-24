@@ -3,7 +3,7 @@ layout: post
 title: 소프트웨어 공학 1주차
 description: "컴퓨터 공학과 3학년 2학기 소프트웨어 공학 강의내용 기록 "
 modified: 2020-09-07
-tags: [Data_Communication]
+tags: [Software Engineering]
 image:
   path: /images/abstract-3.jpg
   feature: abstract-3.jpg
