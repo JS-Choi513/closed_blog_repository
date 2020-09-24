@@ -27,7 +27,7 @@
   </div><!-- /.header-title -->
 </div><!-- /.entry-header -->
 {% assign category = page.category | default: page.title %}
-  {% for post in site.categories[category] %}
+  {% for post in site.category[category] %}
     
       <div id="main" role="main">
         <li>
