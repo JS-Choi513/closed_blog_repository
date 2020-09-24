@@ -80,7 +80,19 @@ image:
 
 - **Plan Driven**
 
+<figure class="half">
+	<img src="https://user-images.githubusercontent.com/32115744/94105609-a53b2680-fe74-11ea-9886-c3d9907a8890.JPG" alt="">
+	<img src="/images/image-filename-2.jpg" alt="">
+	<figcaption>폭포수(water fall)모델</figcaption>
+</figure>
+
+
 - **Agile**
+<figure class="half">
+	<img src="https://user-images.githubusercontent.com/32115744/94105576-8e94cf80-fe74-11ea-89ee-ce5497114391.JPG" alt="">
+	<img src="/images/image-filename-2.jpg" alt="">
+	<figcaption>점증적(incremental)모델</figcaption>
+</figure>
 
 
 
