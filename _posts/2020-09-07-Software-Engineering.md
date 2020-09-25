@@ -79,15 +79,16 @@ image:
 #### 1.3.1 소프트워에 프로세스 종류
 
 - **Plan Driven**
-
 <figure>
-	<img src="https://user-images.githubusercontent.com/32115744/94105609-a53b2680-fe74-11ea-9886-c3d9907a8890.JPG" alt="" {: width="80%" height="80%"}>
-	<center><figcaption>폭포수(water fall)모델</figcaption></center>
+  <a href="https://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf"class= "image=popup">
+  <img src="https://user-images.githubusercontent.com/32115744/94105609-a53b2680-fe74-11ea-9886-c3d9907a8890.JPG" alt="" {: width="80%" height="80%"} ></a>
+  <center><figcaption>폭포수(water fall)모델</figcaption></center>
 </figure>
 
 - **Agile**
 
 <figure>
-	<img src="https://user-images.githubusercontent.com/32115744/94105576-8e94cf80-fe74-11ea-89ee-ce5497114391.JPG" alt="" {: width="80%" height="80%"}>
+<a href="https://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf"class= "image=popup">
+	<img src="https://user-images.githubusercontent.com/32115744/94105576-8e94cf80-fe74-11ea-89ee-ce5497114391.JPG" alt="" {: width="80%" height="80%"}></a>
 	<center><figcaption>폭포수(water fall)모델</figcaption></center>
 </figure>

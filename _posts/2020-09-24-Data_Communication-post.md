@@ -20,14 +20,14 @@ image:
 * <strong>전송매체</strong>: 메시지가 송신자로부터 수신자에게 전달되는 경로
 * <strong>프로토콜</strong>: 데이터 통신을 제어하는 약속 또는 규칙들의 집합
 
-<figure class="half">
+<figure>
 	<img src="https://user-images.githubusercontent.com/32115744/94139041-f8789d80-fea3-11ea-841f-fa3b9e4f1aaf.JPG" alt=""{: width="80%" height="80%"}>
  <center><figcaption>데이터 통신 시스템의 기본요소</figcaption></center>
 </figure>
 
 #### 1.3.1.데이터 통신 시스템의 구성요소
 
-<figure class="half">
+<figure>
 	<img src="https://user-images.githubusercontent.com/32115744/94139634-ee0ad380-fea4-11ea-8249-7bf0e4ff63b6.JPG
 " alt=""{: width="80%" height="80%"}>
  <center><figcaption>데이터 통신 시스템의 구성요소</figcaption></center>
