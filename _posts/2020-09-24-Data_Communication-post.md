@@ -21,7 +21,7 @@ image:
 * <strong>프로토콜</strong>: 데이터 통신을 제어하는 약속 또는 규칙들의 집합
 
 <figure>
-	<img src="https://user-images.githubusercontent.com/32115744/94139041-f8789d80-fea3-11ea-841f-fa3b9e4f1aaf.JPG" alt=""{: width="80%" height="80%"}>
+	<img src="https://user-images.githubusercontent.com/32115744/94139041-f8789d80-fea3-11ea-841f-fa3b9e4f1aaf.JPG" width="80%" height="80%">
  <center><figcaption>데이터 통신 시스템의 기본요소</figcaption></center>
 </figure>
 
@@ -29,7 +29,7 @@ image:
 
 <figure>
 	<img src="https://user-images.githubusercontent.com/32115744/94139634-ee0ad380-fea4-11ea-8249-7bf0e4ff63b6.JPG
-" alt=""{: width="80%" height="80%"}>
+" width="80%" height="80%">
  <center><figcaption>데이터 통신 시스템의 구성요소</figcaption></center>
  </figure>
 
@@ -37,8 +37,8 @@ image:
 #### 1.3.2.데이터 통신관련 장비
 <figure class="half">
 	<img src="https://user-images.githubusercontent.com/32115744/94139862-5063d400-fea5-11ea-9b45-1dc969a236be.JPG
-" alt=""{: width="80%" height="80%"}>
- <center><figcaption>장비의 구성</figcaption></center>
+" width="80%" height="80%">
+ <figcaption><center>장비의 구성</center></figcaption>
   </figure>
 
 * <strong>데이터 단말장비(Data Terminal Equipment)</strong>: 데이터 수신장치나 데이터 송신 장치 또는 송수신 장치로 동작하며, 링크 프로토콜에 따라 행해지는 데이너 통신 제어 기능을 갖추고 있는 단말장치나 주 컴퓨터를 총칭
