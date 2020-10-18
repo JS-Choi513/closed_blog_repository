@@ -5,8 +5,8 @@ description: "컴퓨터 공학과 3학년 2학기 데이터통신 강의내용 �
 modified: 2020-09-09
 tags: [Data_Communication]
 image:
-  path: /images/abstract-3.jpg
-  feature: abstract-3.jpg
+  path: /images/DC.jpg
+  feature: DC.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---

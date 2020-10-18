@@ -5,8 +5,8 @@ description: "컴퓨터 공학과 3학년 2학기 소프트웨어 공학 강의�
 modified: 2020-09-07
 tags: [Software Engineering]
 image:
-  path: /images/abstract-3.jpg
-  feature: abstract-3.jpg
+  path: /images/SE.jpg
+  feature: SE.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
@@ -80,15 +80,13 @@ image:
 
 - **Plan Driven**
 <figure>
-  <a href="https://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf"class= "image=popup">
-  <img src="https://user-images.githubusercontent.com/32115744/94105609-a53b2680-fe74-11ea-9886-c3d9907a8890.JPG" alt="" {: width="80%" height="80%"} ></a>
+  <img src="https://user-images.githubusercontent.com/32115744/94105609-a53b2680-fe74-11ea-9886-c3d9907a8890.JPG" width="80%" height="80%">
   <center><figcaption>폭포수(water fall)모델</figcaption></center>
 </figure>
 
 - **Agile**
 
 <figure>
-<a href="https://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf"class= "image=popup">
-	<img src="https://user-images.githubusercontent.com/32115744/94105576-8e94cf80-fe74-11ea-89ee-ce5497114391.JPG" alt="" {: width="80%" height="80%"}></a>
+	<img src="https://user-images.githubusercontent.com/32115744/94105576-8e94cf80-fe74-11ea-89ee-ce5497114391.JPG" width="80%" height="80%">
 	<center><figcaption>폭포수(water fall)모델</figcaption></center>
 </figure>

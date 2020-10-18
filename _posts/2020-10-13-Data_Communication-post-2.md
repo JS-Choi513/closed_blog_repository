@@ -5,8 +5,8 @@ description: "컴퓨터 공학과 3학년 2학기 데이터통신 강의내용 �
 modified: 2020-10-13
 tags: [Data_Communication]
 image: 
-  path: /images/abstract-3.jpg
-  feature: abstract-3.jpg
+  path: /images/DC.jpg
+  feature: DC.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
@@ -44,10 +44,11 @@ image:
 * <strong>패킷교환 방식(packet switching)</strong>
 패킷 마다 주소를 삽입, 노드들이 패킷을 통하여 대역폭을 공유하는 방식이다. 패킷의 주소를 보고 최종 목적지 까지 패킷을 전달한다. 데이터 트래픽이 없을 때 낭비되는 대역폭을 효율적으로 사용할 수 있으며 물리적인 전송로를 여러 노드가 공유한다. 
 패킷스위칭에는 Datagram, 과 Virtual Circuit 방식이 있다.
-    <figure>
+  <figure>
 	<img src="https://user-images.githubusercontent.com/32115744/95883521-fffdd900-0db5-11eb-86ec-491cfb82fcd2.jpg" width="100%" height="80%">
  <center><figcaption> Packet Switching <figcaption></center>
-</figure>
+  </figure>  
+  
 &nbsp;  &nbsp;  &nbsp;  &nbsp;특징
 
    * 주로 데이터를 위한 교환방식으로 대역폭의 효율적인 이용이 목적이다.

@@ -5,8 +5,8 @@ description: "컴퓨터 공학과 3학년 2학기 데이터통신 강의내용 �
 modified: 2020-09-29
 tags: [Data_Communication]
 image: 
-  path: /images/abstract-3.jpg
-  feature: abstract-3.jpg
+  path: /images/DC.jpg
+  feature: DC.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
@@ -27,7 +27,7 @@ image:
   * Circuit Switching: Call setup(Connection Establishment), 물리적 제어, 가용할 수 있는 리소스의 한계만큼만 사용할 수 있다 안정성과 성능을 보장한다. 
   *  packet Switching: Indivisial Routing,TCP(Connection Oriented), 소프트웨어적 제어 많은 사람이 한번에 사용할 수 있지만 이용자가 많아지만 안정성과 성능이 떨어진다. Sharing 이 주요 목적, 소프트웨어적으로 구현한다. 패킷이 전송이 되면 중간라우터가 IP 헤더를 보고 전송되어야 할 링크를 지정한다. 따라서 같은 회선에 서로 종류가 다른 패킷이 전송된다
   <figure>
-	<img src="https://user-images.githubusercontent.com/32115744/95188216-14b2fd80-0807-11eb-8bdf-642c8f710d78.png" width="80%" height="80%">
+	<img src="https://user-images.githubusercontent.com/32115744/95188216-14b2fd80-0807-11eb-8bdf-642c8f710d78.png" width="100%" height="100%">
  <center><figcaption>TCP/IP 3-way hand shaking</figcaption></center>
 </figure>
 송신자와 수신자 간 데이터 전송을 하기 전 통신에 연결확인을 3번한다. 
