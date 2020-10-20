@@ -36,17 +36,19 @@ image:
    * 상대적으로 긴 접속 시간을 필요로 하나 전송지연은 거의 없다. 
    * 고정적인 대역폭을 사용한다.
    * 속도나 코드의 변환이 불가능하다.
+
   <figure>
 	<img src="https://user-images.githubusercontent.com/32115744/95883444-e6f52800-0db5-11eb-87da-e46ba37cd362.jpg" width="100%" height="80%">
- <center><figcaption> Circuit Switching</figcaption></center>
-</figure>
+ <center><figcaption> Circuit Switching
+ </figcaption></center>
+  </figure>
 
 * <strong>패킷교환 방식(packet switching)</strong>
 패킷 마다 주소를 삽입, 노드들이 패킷을 통하여 대역폭을 공유하는 방식이다. 패킷의 주소를 보고 최종 목적지 까지 패킷을 전달한다. 데이터 트래픽이 없을 때 낭비되는 대역폭을 효율적으로 사용할 수 있으며 물리적인 전송로를 여러 노드가 공유한다. 
 패킷스위칭에는 Datagram, 과 Virtual Circuit 방식이 있다.
   <figure>
 	<img src="https://user-images.githubusercontent.com/32115744/95883521-fffdd900-0db5-11eb-86ec-491cfb82fcd2.jpg" width="100%" height="80%">
- <center><figcaption> Packet Switching <figcaption></center>
+ <center><figcaption> Packet Switching </figcaption></center>
   </figure>  
   
 &nbsp;  &nbsp;  &nbsp;  &nbsp;특징

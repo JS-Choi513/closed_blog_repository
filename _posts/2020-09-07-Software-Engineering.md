@@ -88,5 +88,5 @@ image:
 
 <figure>
 	<img src="https://user-images.githubusercontent.com/32115744/94105576-8e94cf80-fe74-11ea-89ee-ce5497114391.JPG" width="80%" height="80%">
-	<center><figcaption>폭포수(water fall)모델</figcaption></center>
+	<center><figcaption>점증적 개발(Incremental developement) 모델</figcaption></center>
 </figure>
